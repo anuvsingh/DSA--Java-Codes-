@@ -19,4 +19,4 @@ public class creationOfStrings {
         // name = sc.next();  // ONLY A WORD
         System.out.print("Output: " +name);
     }
-}
+} 
